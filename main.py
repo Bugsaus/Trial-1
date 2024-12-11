@@ -78,4 +78,4 @@ class SnapBrute:
 
 if __name__ == "__main__":      
     n = SnapBrute()
-    n.main()
+    n.main(mstojces)
